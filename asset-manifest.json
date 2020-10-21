@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.9efc47aa.chunk.js",
-    "main.js.map": "/static/js/main.9efc47aa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cac535e6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cac535e6.js.map",
-    "static/js/2.8aae19e4.chunk.js": "/static/js/2.8aae19e4.chunk.js",
-    "static/js/2.8aae19e4.chunk.js.map": "/static/js/2.8aae19e4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9d2bf33d04d6459d7b8cc1669c31dd11.js": "/precache-manifest.9d2bf33d04d6459d7b8cc1669c31dd11.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.8aae19e4.chunk.js.LICENSE.txt": "/static/js/2.8aae19e4.chunk.js.LICENSE.txt"
+    "main.js": "https://pa-ram-pam-pam.github.io/static/js/main.717bc6a4.chunk.js",
+    "main.js.map": "https://pa-ram-pam-pam.github.io/static/js/main.717bc6a4.chunk.js.map",
+    "runtime-main.js": "https://pa-ram-pam-pam.github.io/static/js/runtime-main.f8f51a84.js",
+    "runtime-main.js.map": "https://pa-ram-pam-pam.github.io/static/js/runtime-main.f8f51a84.js.map",
+    "static/js/2.36cefa53.chunk.js": "https://pa-ram-pam-pam.github.io/static/js/2.36cefa53.chunk.js",
+    "static/js/2.36cefa53.chunk.js.map": "https://pa-ram-pam-pam.github.io/static/js/2.36cefa53.chunk.js.map",
+    "index.html": "https://pa-ram-pam-pam.github.io/index.html",
+    "precache-manifest.43cff176c423fd32313e2d19bf522510.js": "https://pa-ram-pam-pam.github.io/precache-manifest.43cff176c423fd32313e2d19bf522510.js",
+    "service-worker.js": "https://pa-ram-pam-pam.github.io/service-worker.js",
+    "static/js/2.36cefa53.chunk.js.LICENSE.txt": "https://pa-ram-pam-pam.github.io/static/js/2.36cefa53.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cac535e6.js",
-    "static/js/2.8aae19e4.chunk.js",
-    "static/js/main.9efc47aa.chunk.js"
+    "static/js/runtime-main.f8f51a84.js",
+    "static/js/2.36cefa53.chunk.js",
+    "static/js/main.717bc6a4.chunk.js"
   ]
 }
