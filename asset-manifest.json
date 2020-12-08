@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "https://pa-ram-pam-pam.github.io/static/js/main.100ee818.chunk.js",
-    "main.js.map": "https://pa-ram-pam-pam.github.io/static/js/main.100ee818.chunk.js.map",
+    "main.js": "https://pa-ram-pam-pam.github.io/static/js/main.4af4f0e5.chunk.js",
+    "main.js.map": "https://pa-ram-pam-pam.github.io/static/js/main.4af4f0e5.chunk.js.map",
     "runtime-main.js": "https://pa-ram-pam-pam.github.io/static/js/runtime-main.f8f51a84.js",
     "runtime-main.js.map": "https://pa-ram-pam-pam.github.io/static/js/runtime-main.f8f51a84.js.map",
-    "static/js/2.077c009c.chunk.js": "https://pa-ram-pam-pam.github.io/static/js/2.077c009c.chunk.js",
-    "static/js/2.077c009c.chunk.js.map": "https://pa-ram-pam-pam.github.io/static/js/2.077c009c.chunk.js.map",
+    "static/js/2.3272785a.chunk.js": "https://pa-ram-pam-pam.github.io/static/js/2.3272785a.chunk.js",
+    "static/js/2.3272785a.chunk.js.map": "https://pa-ram-pam-pam.github.io/static/js/2.3272785a.chunk.js.map",
     "index.html": "https://pa-ram-pam-pam.github.io/index.html",
-    "precache-manifest.50473698a2bd27194fdd43c55b82af95.js": "https://pa-ram-pam-pam.github.io/precache-manifest.50473698a2bd27194fdd43c55b82af95.js",
+    "precache-manifest.8ab5ce2b6b4e73a438bb5d055bf56f14.js": "https://pa-ram-pam-pam.github.io/precache-manifest.8ab5ce2b6b4e73a438bb5d055bf56f14.js",
     "service-worker.js": "https://pa-ram-pam-pam.github.io/service-worker.js",
-    "static/js/2.077c009c.chunk.js.LICENSE.txt": "https://pa-ram-pam-pam.github.io/static/js/2.077c009c.chunk.js.LICENSE.txt"
+    "static/js/2.3272785a.chunk.js.LICENSE.txt": "https://pa-ram-pam-pam.github.io/static/js/2.3272785a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f8f51a84.js",
-    "static/js/2.077c009c.chunk.js",
-    "static/js/main.100ee818.chunk.js"
+    "static/js/2.3272785a.chunk.js",
+    "static/js/main.4af4f0e5.chunk.js"
   ]
 }
